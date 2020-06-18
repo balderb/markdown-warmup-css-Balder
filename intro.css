@@ -1,0 +1,58 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+
+html {
+    background-color:#e4e4e4;
+  }
+
+h1, h2, h3, h4 {
+    color:#086972;
+}
+
+html, body {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10%;
+    border: 1px solid rgba(255, 255, 255, 0.74);
+    justify-content: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+
+  table {
+    justify-content: left;
+    table-layout: fixed;
+    border-collapse: collapse;
+    text-align: left;
+  }
+ 
+  h1, h2, h3 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  p {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  img {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  
