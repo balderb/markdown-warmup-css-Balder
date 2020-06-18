@@ -34,7 +34,7 @@ img {
     justify-content: left;
     table-layout: fixed;
     border-collapse: collapse;
-    text-align: left;
+    text-align: center;
   }
  
   h1, h2, h3 {
@@ -55,4 +55,7 @@ img {
     justify-content: center;
   }
 
-  
+  div { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
+
